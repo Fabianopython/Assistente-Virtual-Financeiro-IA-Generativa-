@@ -1,1 +1,8 @@
 
+# FAQ — Finanças Básicas
+
+**O que é CDI?**  
+CDI é uma taxa usada como referência para investimentos de renda fixa.
+
+**O que é rotativo do cartão?**  
+É o crédito usado quando você paga menos que o valor total da fatura.
