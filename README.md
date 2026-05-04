@@ -1,14 +1,14 @@
-# Assistente-Virtual-Financeiro-IA-Generativa-
+Assistente-Virtual-Financeiro-IA-Generativa-
 
-# 🧠 Assistente Virtual Financeiro com IA Generativa  
+Assistente Virtual Financeiro com IA Generativa  
 Projeto Final — DIO / Bradesco
 
-## 📌 Visão Geral
+Visão Geral
 Este projeto implementa um assistente virtual financeiro baseado em IA generativa, capaz de responder dúvidas, explicar produtos bancários, realizar simulações simples e manter contexto de conversa.
 
 ---
 
-## 🚀 Funcionalidades
+Funcionalidades
 - FAQs inteligentes  
 - Explicações de produtos bancários  
 - Simulações financeiras demonstrativas  
@@ -17,12 +17,12 @@ Este projeto implementa um assistente virtual financeiro baseado em IA generativ
 
 ---
 
-## 📁 Estrutura
+Estrutura
 (estrutura completa do repositório)
 
 ---
 
-## 🛠️ Instalação
+Instalação
 
 ```bash
 git clone https://github.com/SEU_USUARIO/assistente-financeiro-ia.git
